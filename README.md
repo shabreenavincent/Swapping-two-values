@@ -30,8 +30,7 @@ y=t
 print('Swapped values are:',x,y)
 ```
 
-## RESULT:
-Thus the swapping of two values are successfully executed
+
 
 ## OUTPUT:
 
@@ -42,7 +41,8 @@ Thus the swapping of two values are successfully executed
 
 ![swapping](https://user-images.githubusercontent.com/119475721/224647805-3f2f5210-17a2-4ef2-8097-54991284298c.png)
 
-
+## RESULT:
+Thus the swapping of two values are successfully executed
 
 
 
